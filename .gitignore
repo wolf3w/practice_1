@@ -1,0 +1,15 @@
+build/
+
+*.jar
+!module2.jar
+
+**/application-local.properties
+
+.idea/
+
+.idea_copy/*
+!.idea_copy/workspace.xml
+
+# Файл module2.jar из п 2.1.b по-прежнему не должен игнорироваться
+**/build/
+!build
