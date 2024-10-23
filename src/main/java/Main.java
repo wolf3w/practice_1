@@ -5,7 +5,7 @@ public class Main {
             System.out.println("Take one down, pass it around");
             System.out.println((i - 1) + " bottles of beer on the wall!\n");
         }
-        System.out.println("No more bottles of beer on the wall, no more bottles of beer.");
-        System.out.println("Go to the store and buy some more, 99 bottles of beer on the wall...");
+        System.out.println("No more bottles of beer on the wall, no more bottles of beer");
+        System.out.println("We've taken them down and passed them around; now we're drunk and passed out!");
     }
 }
